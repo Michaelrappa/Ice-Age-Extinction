@@ -36,7 +36,7 @@ Although some claim that during the period of ice age extinctions, humans were t
 
 # Comprehensive Bibliography
 
-Journal Articles and Books
+# Journal Articles and Books
 
 Alroy, John. "A multispecies overkill simulation of the end-Pleistocene megafaunal mass 	extinction." Science 292, no. 5523 (2001): 1893-1896.
 
@@ -126,6 +126,48 @@ Wroe, Stephen, Judith Field, and Donald K. Grayson. "Megafaunal extinction: clim
 
 Wroe, Stephen, Judith Field, Richard Fullagar, and Lars S. Jermin. "Megafaunal extinction in the 	late Quaternary and the global overkill hypothesis." Alcheringa 28, no. 1 (2004): 291-	331.
 
+---
+
+# Internet sources
+
+University of South Carolina. "Did an extraterrestrial impact trigger the extinction of ice-age 	animals? Archaeologist finds evidence in South Carolina to support controversial theory." 	Science Daily. October 25, 2019. 	www.sciencedaily.com/releases/2019/10/191025110314.htm.
+
+- Science Daily is a website that shares information relating to science. Primarily, it republishes already published information. The site targets people that have an interest in scientific research activities. The article focuses on the impact of the extraterrestrial trigger on the ice-age animals’ extinction. The information is based on an already published documents hence it is just a summary and interpretation of the study without giving comprehensive data. 
+
+MacDonald, James. “What really happened to the megafauna.” JSTOR Daily. May 14, 2018. 	https://daily.jstor.org/what-really-happened-to-the-megafauna/
+
+- JSTOR Daily is a digital library for students, researchers, and scholars. It publishes a summary of the digital research found on the JSTOR website. The site is authoritative since it has the right to the source of information. The information in the article is based on a scientific study that was unbiased. It is a summary of a published journal article and the detailed information can be accessed through accessing the main article whose link is on the website.
+
+Switek, Brian. “The problem with ice age overkill.” Scientific American. October 5, 2018. 	https://blogs.scientificamerican.com/laelaps/the-problem-with-ice-age-overkill/
+
+- Scientific American is a part of Springer Nature that has commercial relations and owns many scientific publications. The site is a summary of these publications thus reporting science developments. The audience of the website is all those that are interested in scientific research activities. The archeological topic represented in the article is non-biased and has no new information.
+
+Wallace, Tim. “Climate change preceded Ice Age megafauna extinction.” Cosmos Magazine. 	April 19, 2017. https://cosmosmagazine.com/palaeontology/climate-change-preceded-	ice-age-megafauna-extinction.
+
+- Cosmos Magazine publishes a summary of scientific research findings thus targets people with interest in such fields. Its information is based on published research articles thus authoritative. However, there is no new information since the article is based on already published data. The article has links to which the referenced articles can be tracked and the data evaluated.
+ 
+Krech III, Shepard. “Paleoindians and the Great Pleistocene Die-Off.” National Humanities 	Center. Accessed on December 6, 2019. 	http://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/pleistocene.htm
+
+- National Humanities Center aims to enhance scholarship in the humanities and encourage its influence in the United States. It targets students, scholars, and researchers in the humanities fields. The article is a summary of information and has no data to back its conclusion. However, it is authoritarian since the author is a Professor of Anthropology and the Haffenreffer Museum of Anthropology’s Director at Brown University.
+ 
+Tyson, Peter. “End of the big beasts.” NOVA. Accessed on December 6, 2019. 	https://www.pbs.org/wgbh/nova/clovis/megafauna.html. 
+- NOVA is an online and classroom science reporting website. It provides original content and lists of resources including educational, science, and video blogs. It targets people that have an interest in science including scholars and students. However, the article provided is a summary with no data to back its conclusion.
+ 
+Vanderbilt University. “Climate change helped kill off super-sized Ice Age animals in 	Australia.” EurekAlert! January 26, 2017. https://www.eurekalert.org/pub_releases/2017-	01/vu-	cch012317.php. 
+
+- EurekAlert! is an American Association for the Advancement of Science’s not-for-profit news distribution platform. It targets the general public and the journalists with their news. The website hosts news released by corporations, government agencies, medical centers, journal publishers, and universities among other organizations. The article seems to be unbiased but does not have data to support its conclusion. It is a summary of the information with no list or links of references.
+
+Illinois State Museum. “The late Pleistocene extinctions.” Illinois State Museum. Accessed on 	December 6, 2019. http://exhibits.museum.state.il.us/exhibits/larson/lp_extinction.html.
+
+- The Illinois State Museum website aims to encourage heritage, cultural, and natural resources and inspiring discovery. It targets a diverse group of people who are interested in geographical and historical topics. The article is a summary of diverse documents that are not cited. Therefore, its conclusion is not comprehensively supported.
+ 
+Slezak, Michael. “Megafauna extinction: DNA evidence pins blame on climate change.” 	NewScientist. July 23, 2015. https://www.newscientist.com/article/dn27952-megafauna-	extinction-dna-evidence-pins-blame-on-climate-change/#ixzz67JN82fXp.
+
+- NewScientist is an online newsletter that aims at keeping its audience up to date with the relevant technological and scientific developments. The article is based on a published journal article and it is not biased. However, it is a mere summary and the details on the conclusion cannot be ascertained within the article but an external source. The link of the journal article to which it is based is provided in the article.
+ 
+Stevens, William K. “Disease is the new suspect in ancient extinctions.” The New York Times. 	April 29, 1997.  https://www.nytimes.com/1997/04/29/science/disease-is-new-suspect-in-	ancient-extinctions.html.
+
+- The New York Times is a news company that seeks to ensure that the public gets the truth. The target is the general audience and seeks to capture stories that depict wonders on the cosmos, nature and human body under its science segment. The article is a summary that is poorly referenced hence the conclusion is not supported. However, it captures arguments from diverse technocrats thus not biased. 
 
 
 
