@@ -82,6 +82,8 @@ Koch, Paul L., and Anthony D. Barnosky. "Late Quaternary extinctions: state of t
 
 Kolbert, Elizabeth. The sixth extinction: an unnatural history. New York: Henry Holt and 	Company, 2014.
 
+Lanoë, François B., D. Joshua, Charles E. Reuther, Holmes, and A. Potter Ben. 2019. "Small mammals and paleovironmental context of the terminal pleistocene and early holocene human occupation of central Alaska." Geoarchaeology. 
+
 Lewis, R. Barry, Robert Jurmain, and Lynn Kilgore. Understanding humans: introduction to 	physical anthropology and archaeology. Belmont: Wadsworth, 2012.
 
 Lorenzen, Eline D., David Nogués-Bravo, Ludovic Orlando, Jaco Weinstock, Jonas Binladen, 	Katharine A. Marske, Andrew Ugan et al. "Species-specific responses of Late Quaternary 	megafauna to climate and humans." Nature 479, no. 7373 (2011): 359.
@@ -93,6 +95,8 @@ MacPhee, R. D. E., and Peter Schouten. End of the megafauna: the fate of the wor
 MacPhee, Ross D. E., and Hans-Dieter Sues. Extinctions in near Time: Causes, Contexts, and 	Consequences. New York: Springer, 2013.
 
 Malhi, Yadvinder, Christopher E. Doughty, Mauro Galetti, Felisa A. Smith, Jens-Christian 	Svenning, and John W. Terborgh. "Megafauna and ecosystem function from the 	Pleistocene to the Anthropocene." Proceedings of the National Academy of Sciences 113, 	no. 4 (2016): 838-846.
+
+Mann, Daniel H., Groves Pamela, V. Benjamin, Gaglioti, and A. Shapiro Beth. 2019. "Climate‐driven ecological stability as a globally shared cause of Late Quaternary megafaunal extinctions: the Plaids and Stripes Hypothesis." Biological Reviews 94 (1): 328-352.
 
 Mann, Daniel H., Pamela Groves, Michael L. Kunz, Richard E. Reanier, and Benjamin V. 	Gaglioti. "Ice-age megafauna in Arctic Alaska: extinction, invasion, 	survival." Quaternary Science Reviews 70 (2013): 91-108.
 
@@ -120,11 +124,15 @@ Stuart, Anthony J., P. A. Kosintsev, T. F. G. Higham, and A. M. Lister. "Pleisto
 
 Stuart, Anthony John. "Late Quaternary megafaunal extinctions on the continents: a short 	review." Geological Journal 50, no. 3 (2015): 338-363.
 
+Wang, Xianfeng R., Edwards Lawrence, S. Augusto, Hai Auler, Xinggong Cheng, Yongjin Kong, Francisco W. Wang, Jeffrey A. Cruz, and Hong-Wei Chiang Dorale. 2017. "Hydroclimate changes across the Amazon lowlands over the past 45,000 years." Nature 541, no. 7636 7636 (2): 204.
+
 Wroe, Stephen, and Judith Field. "A review of the evidence for a human role in the extinction of 	Australian megafauna and an alternative interpretation." Quaternary Science Reviews 25, 	no. 21-22 (2006): 2692-2703.
 
 Wroe, Stephen, Judith Field, and Donald K. Grayson. "Megafaunal extinction: climate, humans 	and assumptions." Trends in Ecology & Evolution 2, no. 21 (2006): 61-62.
 
 Wroe, Stephen, Judith Field, Richard Fullagar, and Lars S. Jermin. "Megafaunal extinction in the 	late Quaternary and the global overkill hypothesis." Alcheringa 28, no. 1 (2004): 291-	331.
+
+Yin, Ziwei, Cai Chenyang, and Huang Di-Ying. 2018. "A potentially diverse fauna of springtail-hunting scydmaenines during the late Mesozoic (Coleoptera, Staphylinidae, Scydmaeninae)." Cretaceous Research 90: 163-167.
 
 ---
 
