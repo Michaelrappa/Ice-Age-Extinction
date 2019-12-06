@@ -1,11 +1,10 @@
 # Controversy Between Different Hypotheses for Human Involvement in The Extinction of Megafauna at the End of The Last Ice Age
 
-[Click Here to See the Repo](https://github.com/Michaelrappa/dh-class3)
 
 ![DH Banner Image](http://digitalhumanities.dartmouth.edu/wp-content/uploads/2016/04/Losh-book-cover.jpg)
 
 
- For a very long time, scientists and archeologists have known that there existed megafauna in the same period that human expansion was occurring. The estimate of the following extinction leads to a conclusion that about 99% of the megafauna are completely done away with. The extinction of these megafauna is still a topic of contention today. By comparing the number of dated bones and climate change, it is realized that megafaunal species like the horse and mammoth experienced boom and bust cycles during the ice age as they tried to survive rapid changes in climate. Their extinction occurred at the end of the ice age because the rising sea level dispersed to different routes and spreading peat degraded the quality of range (Lanoë, et al. 2019).
+           For a very long time, scientists and archeologists have known that there existed megafauna in the same period that human expansion was occurring. The estimate of the following extinction leads to a conclusion that about 99% of the megafauna are completely done away with. The extinction of these megafauna is still a topic of contention today. By comparing the number of dated bones and climate change, it is realized that megafaunal species like the horse and mammoth experienced boom and bust cycles during the ice age as they tried to survive rapid changes in climate. Their extinction occurred at the end of the ice age because the rising sea level dispersed to different routes and spreading peat degraded the quality of range (Lanoë, et al. 2019).
  
 Some archaeologists believe that human activities contributed to the cause of the extinction. Activities such as overhunting of these species, human-driven habitat changes, and overfishing have acted to push most of the species to the collapse. Geologists suggest that we are in the new phase in the history of the earth known as Anthropocene. Towards the close of Pleistocene, one of the extinction occurred which was realized a few tens of thousands years ago. The period is also known as the megafaunal extinction since it cleared many of the species from the large group of animals (Mann, et al. 2019). The cause of this extinction however, remains a continuous debate among scientists. 
 
