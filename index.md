@@ -22,3 +22,12 @@ A conservative literature review provided evidence of continentally extinct mega
 Conclusion
 Although some claim that during the period of ice age extinctions, humans were the cause of widespread extinctions. However, humans at this time did not have the ability to kill megafauna in the large numbers that would have been required to drive them to extinction. Moreover, in some areas humans would not have been able to kill off species of megafauna because thy didn’t inhabit such areas. The greatest critique of the overkill hypotheses is that there is not yet enough evidence to prove that humans bear the blame for the ice age extinctions. Nevertheless, just because there is not strong enough evidence for the overkill hypotheses, that does not mean it is a lie. In short, the main cause of extinction of the megafauna species is still a debatable dilemma and is likely a combination of factors with the driving cause being climate change and not overhunting, which would have been a subordinate contributing factor to the extinctions that occurred.
 
+---
+
+# Comprehensive Bibliography
+
+
+
+
+
+
