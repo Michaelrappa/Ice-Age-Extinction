@@ -26,6 +26,52 @@ Although some claim that during the period of ice age extinctions, humans were t
 
 # Comprehensive Bibliography
 
+Journal Articles and Books
+
+Alroy, John. "A multispecies overkill simulation of the end-Pleistocene megafaunal mass 	extinction." Science 292, no. 5523 (2001): 1893-1896.
+Barnosky, Anthony D., and Emily L. Lindsey. "Timing of Quaternary megafaunal extinction in 	South America in relation to human arrival and climate change." Quaternary 	International 217, no. 1-2 (2010): 10-29.
+Barnosky, Anthony D., Paul L. Koch, Robert S. Feranec, Scott L. Wing, and Alan B. Shabel. 	"Assessing the causes of late Pleistocene extinctions on the continents." science 306, no. 	5693 (2004): 70-75.
+Bartlett, Lewis J., David R. Williams, Graham W. Prescott, Andrew Balmford, Rhys E. Green, 	Anders Eriksson, Paul J. Valdes, Joy S. Singarayer, and Andrea Manica. "Robustness 	despite uncertainty: regional climate data reveal the dominant role of humans in 	explaining global extinctions of Late Quaternary megafauna." Ecography 39, no. 2 	(2016): 152-161.
+Bird, Michael I., Lindsay B. Hutley, Michael J. Lawes, J. O. N. Lloyd, Jon G. Luly, Peter V. 	Ridd, Richard G. Roberts, Sean Ulm, and Christopher M. Wurster. "Humans, megafauna 	and environmental change in tropical Australia." Journal of Quaternary Science 28, no. 5 	(2013): 439-452.
+Brook, Barry W., and David MJS Bowman. "The uncertain blitzkrieg of Pleistocene 	megafauna." Journal of Biogeography 31, no. 4 (2004): 517-523.
+Broughton, Jack M., and Elic M. Weitzel. "Population reconstructions for humans and 	megafauna suggest mixed causes for North American Pleistocene extinctions." Nature 	communications 9, no. 1 (2018): 5441.
+Burney, David A., and Timothy F. Flannery. "Fifty millennia of catastrophic extinctions after 	human contact." Trends in ecology & evolution 20, no. 7 (2005): 395-401.
+Faith, J. Tyler, and Todd A. Surovell. "Synchronous extinction of North America's Pleistocene 	mammals." Proceedings of the National Academy of Sciences 106, no. 49 (2009): 20641-	20645.
+Faurby, Søren, and J‐C. Svenning. "Historic and prehistoric human‐driven extinctions have 	reshaped global mammal diversity patterns." Diversity and Distributions 21, no. 10 	(2015): 1155-1166.
+Field, Judith, and John Dodson. "Late Pleistocene megafauna and archaeology from Cuddie 	Springs, south-eastern Australia." In Proceedings of the Prehistoric Society, vol. 65, pp. 	275-301. Cambridge University Press, 1999.
+Field, Judith, Melanie Fillios, and Stephen Wroe. "Chronological overlap between humans and 	megafauna in Sahul (Pleistocene Australia–New Guinea): a review of the 	evidence." Earth-Science Reviews 89, no. 3-4 (2008): 97-115.
+Gibbons, Robin. "Examining the extinction of the Pleistocene megafauna." Anthropol. Sci. 	Spring (2004): 22-27.
+Gill, Jacquelyn L., John W. Williams, Stephen T. Jackson, Katherine B. Lininger, and Guy S. 	Robinson. "Pleistocene megafaunal collapse, novel plant communities, and enhanced fire 	regimes in North America." Science 326, no. 5956 (2009): 1100-1103.
+Grayson, Donald K. "Deciphering North American Pleistocene extinctions." Journal of 	Anthropological Research 63, no. 2 (2007): 185-213.
+Grayson, Donald K., and David J. Meltzer. "A requiem for North American overkill." Journal of 	Archaeological Science 30, no. 5 (2003): 585-593.
+Guthrie, R. Dale. "New carbon dates link climatic change with human colonization and 	Pleistocene extinctions." Nature 441, no. 7090 (2006): 207.
+Johnson, Chris N., John Alroy, Nicholas J. Beeton, Michael I. Bird, Barry W. Brook, Alan 	Cooper, Richard Gillespie, et al. "What caused extinction of the Pleistocene megafauna 	of Sahul?." Proceedings of the Royal Society B: Biological Sciences 283, no. 1824 	(2016): 20152399.
+Johnson, Chrisopher N. "Determinants of loss of mammal species during the Late Quaternary 	‘megafauna’extinctions: life history and ecology, but not body size." Proceedings of the 	Royal Society of London. Series B: Biological Sciences 269, no. 1506 (2002): 2221-2227.
+Johnson, Christopher N. "Ecological consequences of Late Quaternary extinctions of 	megafauna." Proceedings of the Royal Society B: Biological Sciences 276, no. 1667 	(2009): 2509-2519.
+Koch, Paul L., and Anthony D. Barnosky. "Late Quaternary extinctions: state of the 	debate." Annual Review of Ecology, Evolution, and Systematics 37 (2006).
+Kolbert, Elizabeth. The sixth extinction: an unnatural history. New York: Henry Holt and 	Company, 2014.
+Lewis, R. Barry, Robert Jurmain, and Lynn Kilgore. Understanding humans: introduction to 	physical anthropology and archaeology. Belmont: Wadsworth, 2012.
+Lorenzen, Eline D., David Nogués-Bravo, Ludovic Orlando, Jaco Weinstock, Jonas Binladen, 	Katharine A. Marske, Andrew Ugan et al. "Species-specific responses of Late Quaternary 	megafauna to climate and humans." Nature 479, no. 7373 (2011): 359.
+Lyons, S. Kathleen, Felisa A. Smith, and James H. Brown. "Of mice, mastodons and men: 	human-mediated extinctions on four continents." Evolutionary Ecology Research 6, no. 3 	(2004): 339-358.
+MacPhee, R. D. E., and Peter Schouten. End of the megafauna: the fate of the world's hugest, 	fiercest, and strangest animals. New York: W.W. Norton & Company, 2019.	
+MacPhee, Ross D. E., and Hans-Dieter Sues. Extinctions in near Time: Causes, Contexts, and 	Consequences. New York: Springer, 2013.
+Malhi, Yadvinder, Christopher E. Doughty, Mauro Galetti, Felisa A. Smith, Jens-Christian 	Svenning, and John W. Terborgh. "Megafauna and ecosystem function from the 	Pleistocene to the Anthropocene." Proceedings of the National Academy of Sciences 113, 	no. 4 (2016): 838-846.
+Mann, Daniel H., Pamela Groves, Michael L. Kunz, Richard E. Reanier, and Benjamin V. 	Gaglioti. "Ice-age megafauna in Arctic Alaska: extinction, invasion, 	survival." Quaternary Science Reviews 70 (2013): 91-108.
+Mann, Daniel H., Pamela Groves, Richard E. Reanier, Benjamin V. Gaglioti, Michael L. Kunz, 	and Beth Shapiro. "Life and extinction of megafauna in the ice-age Arctic." Proceedings 	of the National Academy of Sciences 112, no. 46 (2015): 14301-14306.
+Martin, Paul S., and Harry W. Greene. Twilight of the mammoths: Ice Age extinctions and the 	rewilding of America. Berkeley: University of California Press, 2007.
+Nogués-Bravo, David, Jesús Rodríguez, Joaquín Hortal, Persaram Batra, and Miguel B. Araújo. 	"Climate change, humans, and the extinction of the woolly mammoth." PLoS biology 6, 	no. 4 (2008): e79.
+Prescott, Graham W., David R. Williams, Andrew Balmford, Rhys E. Green, and Andrea 	Manica. "Quantitative global analysis of the role of climate and people in explaining late 	Quaternary megafaunal extinctions." Proceedings of the National Academy of 	Sciences 109, no. 12 (2012): 4527-4531.
+Roberts, Richard G., Timothy F. Flannery, Linda K. Ayliffe, Hiroyuki Yoshida, Jon M. Olley, 	Gavin J. Prideaux, Geoff M. Laslett et al. "New ages for the last Australian megafauna: 	continent-wide extinction about 46,000 years ago." Science 292, no. 5523 (2001): 1888-	1892.
+Robinson, Guy S., Lida Pigott Burney, and David A. Burney. "Landscape paleoecology and 	megafaunal extinction in southeastern New York State." Ecological Monographs 75, no. 	3 (2005): 295-315.
+Rule, Susan, Barry W. Brook, Simon G. Haberle, Chris SM Turney, A. Peter Kershaw, and 	Christopher N. Johnson. "The aftermath of megafaunal extinction: ecosystem 	transformation in Pleistocene Australia." Science 335, no. 6075 (2012): 1483-1486.
+Saltré, Frédérik, Marta Rodríguez-Rey, Barry W. Brook, Christopher N. Johnson, Chris SM 	Turney, John Alroy, Alan Cooper, et al. "Climate change not to blame for late 	Quaternary megafauna extinctions in Australia." Nature Communications 7 (2016): 	10511.
+Sandom, Christopher, Søren Faurby, Brody Sandel, and Jens-Christian Svenning. "Global late 	Quaternary megafauna extinctions linked to humans, not climate change." Proceedings of 	the Royal Society B: Biological Sciences 281, no. 1787 (2014): 20133254.
+Schlottmann, Christopher. Environment and society: a reader. New York: New York University		Press, 2017.
+Stuart, Anthony J., P. A. Kosintsev, T. F. G. Higham, and A. M. Lister. "Pleistocene to Holocene 	extinction dynamics in giant deer and woolly mammoth." Nature 431, no. 7009 (2004): 	684.
+Stuart, Anthony John. "Late Quaternary megafaunal extinctions on the continents: a short 	review." Geological Journal 50, no. 3 (2015): 338-363.
+Wroe, Stephen, and Judith Field. "A review of the evidence for a human role in the extinction of 	Australian megafauna and an alternative interpretation." Quaternary Science Reviews 25, 	no. 21-22 (2006): 2692-2703.
+Wroe, Stephen, Judith Field, and Donald K. Grayson. "Megafaunal extinction: climate, humans 	and assumptions." Trends in Ecology & Evolution 2, no. 21 (2006): 61-62.
+Wroe, Stephen, Judith Field, Richard Fullagar, and Lars S. Jermin. "Megafaunal extinction in the 	late Quaternary and the global overkill hypothesis." Alcheringa 28, no. 1 (2004): 291-	331.
 
 
 
