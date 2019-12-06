@@ -1,7 +1,7 @@
 # Controversy Between Different Hypotheses for Human Involvement in The Extinction of Megafauna at the End of The Last Ice Age
 
 
-![DH Banner Image](http://digitalhumanities.dartmouth.edu/wp-content/uploads/2016/04/Losh-book-cover.jpg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ice_age_fauna_of_northern_Spain_-_Mauricio_Ant%C3%B3n.jpg)
 
 
 For a very long time, scientists and archeologists have known that there existed megafauna in the same period that human expansion was occurring. The estimate of the following extinction leads to a conclusion that about 99% of the megafauna are completely done away with. The extinction of these megafauna is still a topic of contention today. By comparing the number of dated bones and climate change, it is realized that megafaunal species like the horse and mammoth experienced boom and bust cycles during the ice age as they tried to survive rapid changes in climate. Their extinction occurred at the end of the ice age because the rising sea level dispersed to different routes and spreading peat degraded the quality of range (Lanoë, et al. 2019).
